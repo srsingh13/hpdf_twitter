@@ -13,8 +13,8 @@ export default class Moments extends Component {
     return (
       <Container>
         <DrawerHeader navigation={navigation} title={'Moments'} />
-        <View style={styles.viewStyle}>
-          <Text style={styles.textStyle}> Under Construction </Text>
+        <View>
+          <Text > Under Construction </Text>
         </View>
       </Container>
     );
